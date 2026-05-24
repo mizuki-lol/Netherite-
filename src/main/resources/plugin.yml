@@ -1,0 +1,6 @@
+name: AncientDebrisBonus
+version: 1.0.0
+main: me.plugin.ancientdebrisbonus.AncientDebrisBonus
+api-version: 1.20
+author: Plugin
+description: При добыче Ancient Debris выпадает 3 Netherite Scrap вместо стандартного дропа.
